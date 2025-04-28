@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Matheus Gama
+# Matheus Gama
 
 **`Desenvolvedor Front-end`**
 
@@ -10,7 +10,7 @@ Me chamo Matheus Gama, tenho 27 anos e sou natural de São Paulo. Apaixonado por
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
